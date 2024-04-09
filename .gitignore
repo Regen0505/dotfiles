@@ -1,0 +1,8 @@
+.DS_Store
+.config/texstudio
+.config/wireshark
+.config/stetic
+.config/QtProject
+.config/NuGet
+.config/gtk-2.0
+.config/jgit
