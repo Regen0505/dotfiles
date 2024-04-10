@@ -1,8 +1,9 @@
- alias brew="env PATH=\"${PATH/\/Library\/Frameworks\/Python\.framework\/Versions\/3\.9\/bin:/}\" brew"
- alias python="python3"
+alias ls='ls --color=auto'
+alias ll='ls -l'
+alias ..='cd ..'
+alias ..2='cd ../..'
+alias ..3='cd ../../..'
+alias python='python3'
 
-export PATH="/usr/local/sbin:$PATH"
-export PATH_TO_FX=/Library/Java/JavaVirtualMachines/javafx-sdk-11.0.2/lib
-export PATH="/usr/local/sbin:$PATH"
-export PATH="/usr/local/sbin:$PATH"
-export PATH="/usr/local/sbin:$PATH"
+export PATH=$HOME/bin:$PATH
+export PATH=$HOME/.nodebrew/current/bin:$PATH
