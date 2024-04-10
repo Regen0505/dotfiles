@@ -6,3 +6,4 @@
 .config/NuGet
 .config/gtk-2.0
 .config/jgit
+.ssh
